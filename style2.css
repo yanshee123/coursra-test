@@ -1,0 +1,19 @@
+*{margin:0; padding:0;}
+
+#tabel {width:1280; height: auto; background-color:white;}
+
+.heading { font-size: 30; font-weight:bold; font-family:arial Black; text-align:center; color:black;}
+
+.box { width:406; height:250; background-color:rgb(192,192,192,.2); float:right; margin-left:10; margin-right:10; margin-top:20}
+
+.smallbox {width:150; height:50; float:right; background-color:red;  font-family:Calibri Light; font-size:30; font-weight:bold; text-transform:capitalize; color:white;}
+
+.smallbox2 {width:150; height:50; float:right; background-color:green;  font-family:Calibri Light; font-size:30; font-weight:bold; text-transform:capitalize; color:white}
+
+.smallbox3 {width:150; height:50; float:right; background-color:pink; color:white;  font-family:Calibri Light; font-size:30; font-weight:bold; text-transform:capitalize;}
+
+.paragraph { font-family: times new roman; text-align:justify; margin-left:10; margin-right:10; font-size:20; font-weight:300;margin-top:10;}
+
+.smallboxs {width:406; height:50; background-color:rgb(192,192,192,);}
+
+.clear {clear:both;}
